@@ -1,6 +1,6 @@
 PORTNAME=	nut_exporter
 DISTVERSIONPREFIX=	v
-DISTVERSION=	2.5.0
+DISTVERSION=	2.5.2
 CATEGORIES=	sysutils
 
 MAINTAINER=	bsd@j-star.org
